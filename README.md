@@ -1,4 +1,7 @@
-# Z-INDEX: A Zenonian HyperArchive
+<div align="center">
+  <img src="media/z-index-icon.png" width="400" height="400" />
+  <h1>Z-INDEX: A Zenonian HyperArchive</h1>
+</div>
 
 Welcome to the Z-INDEX, a meticulously curated Zenonian HyperArchive. This repository serves as a comprehensive hub, aggregating a list of invaluable resources and shared content within the Zenon Network ecosystem.
   
