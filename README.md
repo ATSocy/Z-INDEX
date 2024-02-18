@@ -72,6 +72,8 @@ Built by aliens.
 ### Bridges
 - [Zenon Network](https://bridge.zenon.network) `bridge.zenon.network`
 - [Zenon Community](https://bridge.mainnet.zenon.community) `bridge.zenon.community`
+  #### Status
+  - [Bridge Orchestrators Status](https://status.bridge.zenon.community) `status.bridge.zenon.community`
   #### Testnet
   - [Zenon Community](https://bridge.testnet.zenon.community) `bridge.testnet.zenon.community`
   #### Affiliate Program
