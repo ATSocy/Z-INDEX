@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="media/z-index-icon.png" width="400" height="400" />
+  <img src="media/z-index-icon.png" width="400"/>
   <h1>Z-INDEX: A Zenonian HyperArchive</h1>
 </div>
 
@@ -95,6 +95,11 @@ Built by aliens.
 
 ### Miscellaneous
 - [Zenon Friends & Family](https://znn.so) `znn.so`
+
+## Designs
+  ### Figma
+  - [s y r i u s mobile](https://www.figma.com/file/BmmfUT2DOiLzweeMfcLCse/App?type=design&node-id=0-1&mode=design) `@DrBlaze21`
+  - [s y r i u s web extension](https://www.figma.com/file/UvTkW8Gb1wxra4ZdMMvYUk/S-Y-R-I-U-S--Extension-Wallet?type=design&node-id=0-1&mode=design) `@znnayiid`
 
 ## Whitepapers
 - [Lightpaper](https://www.atsocy.com/assets/blog/whitepapers/lightpaper.pdf)
