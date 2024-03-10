@@ -38,6 +38,9 @@ Built by aliens.
   - [znndNode Docker](https://github.com/0x3639/znndNode)
   - [WalletConnect Demo](https://github.com/uluCthulhu/wallet-connect-demo)
   - [HTLC Demo](https://github.com/Big-Inches-Club-House/htlc-demo)
+  - [Zenon Snapshot](https://github.com/znnrigel/zenon_snapshot)
+  - [Zenon Raffle](https://github.com/znnrigel/zenon_raffle)
+  - [PlasmaPoints Bot](https://github.com/znnrigel/plasmapointsbot)
   #### Research & Development
   - [Dynamic Plasma Ideas](https://github.com/vilkris4/dynamic-plasma-ideas)
   - [EXPERIMENTAL: Pillar Sentry Architecture](https://github.com/sultanofstaking/EXPERIMENTAL-Zenon-Pillar-Sentry-Architecture-For-Running-Pillars)
@@ -58,6 +61,7 @@ Built by aliens.
 
 ### General Websites
 - [Zenon Network](https://zenon.network) `zenon.network`
+- [Zenon AlphaNet Wiki](https://wiki.zenon.network/#!index.md) `wiki.zenon.network`
 - [ZenonOrg](https://zenon.org) `zenon.org`
 - [Zenon Wiki](https://ask.zenon.wiki) `ask.zenon.wiki`
 - [Zenon Portal](https://zenonportal.xyz) `zenonportal.xyz`
@@ -80,7 +84,10 @@ Built by aliens.
   - [NoM Affiliate Link Generator](https://affiliate.zenon.community) `affiliate.zenon.community`
   #### Audit
   - [Bridge audit by ChainSafe](https://www.zenon.info/content/files/2023/05/zenon-05-2023-bridge-audit.pdf)
-  
+
+### APIs
+  - [ZNN Playground](http://znnplayground.com/) `znnplayground.com`
+  - [ZenonHub API Playground](https://zenonhub.io/tools/api-playground) `zenonhub.io/tools/api-playground`
 
 ### Forums
 - [ZenonOrg](https://forum.zenon.org) `forum.zenon.org`
