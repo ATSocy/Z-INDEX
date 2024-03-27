@@ -101,6 +101,7 @@ Built by aliens.
 - [Zenon Tools](https://zenon.tools) `zenon.tools`
 
 ### Miscellaneous
+- [Zenon Fun](https://www.zenon.fun) `zenon.fun`
 - [Zenon Friends & Family](https://znn.so) `znn.so`
 
 ## Designs
