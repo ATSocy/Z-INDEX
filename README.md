@@ -265,6 +265,11 @@ Built by aliens.
   - [Zenon Network February 2023 Community Update](https://www.zenon.info/zenon-network-february-2023-community-update/)
   - [Zenon Network January 2023 Community Update](https://www.zenon.info/zenon-network-january-2023-update/) 
 
+## Internet Archive (Wayback Machine)
+- [Zenon Network v1 (April 11, 2019)](https://web.archive.org/web/20190411124750/https://zenon.network/) `zenon.network`
+- [Zenon Network v2 (May 28, 2020)](https://web.archive.org/web/20200528090317/https://zenon.network/) `zenon.network`
+- [Zenon Guide](https://web.archive.org/web/20220901151327/https://zenon-guide.space/) `zenon-guide.space`
+
 ## Contributing
 
 
