@@ -42,6 +42,7 @@ Built by aliens.
   - [Zenon Raffle](https://github.com/znnrigel/zenon_raffle)
   - [PlasmaPoints Bot](https://github.com/znnrigel/plasmapointsbot)
   #### Research & Development
+  - [Unikernel-z](https://github.com/EovE7Kj/unikernel-z) *
   - [Dynamic Plasma Ideas](https://github.com/vilkris4/dynamic-plasma-ideas)
   - [EXPERIMENTAL: Pillar Sentry Architecture](https://github.com/sultanofstaking/EXPERIMENTAL-Zenon-Pillar-Sentry-Architecture-For-Running-Pillars)
   - [Zenon Decks](https://github.com/Shazzamazzash/Zenon-Decks)
@@ -56,6 +57,7 @@ Built by aliens.
   - [Alien Valley](https://github.com/alien-valley)
   - [Alien Trap Society](https://github.com/atsocy)
 
+\* Item's marked have not been added to crypto-ecosystem's [taxonomy](https://github.com/electric-capital/crypto-ecosystems)
   
 ## Websites
 
