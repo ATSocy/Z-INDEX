@@ -41,6 +41,8 @@ Built by aliens.
   - [Zenon Snapshot](https://github.com/znnrigel/zenon_snapshot)
   - [Zenon Raffle](https://github.com/znnrigel/zenon_raffle)
   - [PlasmaPoints Bot](https://github.com/znnrigel/plasmapointsbot)
+  #### Resources
+  - [ZNN Legacy Logo](https://github.com/stark-of-zenon/stark-of-zenon.github.io/blob/main/logo_legacy.png) *
   #### Research & Development
   - [Unikernel-z](https://github.com/EovE7Kj/unikernel-z) *
   - [Dynamic Plasma Ideas](https://github.com/vilkris4/dynamic-plasma-ideas)
