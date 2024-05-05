@@ -96,6 +96,9 @@ Built by aliens.
 ### Forums
 - [ZenonOrg](https://forum.zenon.org) `forum.zenon.org`
 - [{H}yperCore One](https://forum.hypercore.one) `forum.hypercore.one`
+- [OG Bitcointalk Announcement (2018)](https://bitcointalk.org/index.php?topic=4281633.msg38564494#msg38564494) `bitcointalk.org`
+- [Bitcointalk Announcement (2020)](https://bitcointalk.org/index.php?topic=5279643.msg55303681#msg55303681) `bitcointalk.org`
+
 
 ### News
 - [Zenon Info](https://zenon.info) `zenon.info`
