@@ -22,8 +22,9 @@ Built by aliens.
   - [Java](https://github.com/KingGorrin/znn_sdk_jav)
   - [Kotlin](https://github.com/ItsChaceD/zenon-android)
   #### Wallets
-  - [s y r i u s](https://github.com/zenon-network/syrius/)
-  - [s y r i u s chrome extension](https://github.com/DexterLabZ/syrius-extension)
+  - [✦ s y r i u s](https://github.com/zenon-network/syrius/)
+  - [✦ s y r i u s mobile (iOS / Android)](https://github.com/drblazer21/syrius_mobile) *
+  - [✦ s y r i u s chrome extension](https://github.com/DexterLabZ/syrius-extension)
   - [Cano](https://github.com/Cano-Wallet/app)
   - [zenon browser wallet](https://github.com/znnpd/zenonbrowserwallet)
   #### Bridge
