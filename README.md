@@ -46,6 +46,7 @@ Built by aliens.
   - [ZNN Legacy Logo](https://github.com/stark-of-zenon/stark-of-zenon.github.io/blob/main/logo_legacy.png) *
   #### Research & Development
   - [Unikernel-z](https://github.com/EovE7Kj/unikernel-z) *
+  - [ZUKD: Zenon Unikernel Development Kit](https://github.com/EovE7Kj/zukd) *
   - [Dynamic Plasma Ideas](https://github.com/vilkris4/dynamic-plasma-ideas)
   - [EXPERIMENTAL: Pillar Sentry Architecture](https://github.com/sultanofstaking/EXPERIMENTAL-Zenon-Pillar-Sentry-Architecture-For-Running-Pillars)
   - [Zenon Decks](https://github.com/Shazzamazzash/Zenon-Decks)
