@@ -23,6 +23,7 @@ Built by aliens.
   - [Kotlin](https://github.com/ItsChaceD/zenon-android)
   #### Wallets
   - [✦ s y r i u s](https://github.com/zenon-network/syrius/)
+  - [Zenon Wallet API for .NET](https://github.com/hypercore-one/znn_walletapi_csharp)
   - [✦ s y r i u s mobile (iOS / Android)](https://github.com/drblazer21/syrius_mobile) *
   - [✦ s y r i u s chrome extension](https://github.com/DexterLabZ/syrius-extension)
   - [Cano](https://github.com/Cano-Wallet/app)
@@ -30,6 +31,7 @@ Built by aliens.
   #### Bridge
   - [Bridge Frontend](https://github.com/DexterLabZ/bridge-dapp)
   #### Utilities
+  - [Zenon.sh: Deployment Script](https://github.com/hypercore-one/deployment)
   - [Sentrify](https://github.com/MoonBaZZe/sentrify)
   - [Zenon Testnet Stresstest](https://github.com/znnpd/znn-testnet-stresstest)
   - [ZNN Node Parser](https://github.com/sol-znn/znn-node-parser)
