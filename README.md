@@ -138,6 +138,7 @@ Built by aliens.
 - [Z_ONUM](https://medium.com/@z_onum/z-onum-c5914e72ff85)
 - [Zenon Network Guide — All you need to know — part 1](https://lazyprius.medium.com/zenon-network-guide-all-you-need-to-know-part-1-f6aa2f18f3d4)
 - [Zenon Network | Raspberry Pi Node Guide](https://medium.com/@jer0n/zenon-network-raspberry-pi-node-guide-1cd02d69e52e)
+- [Roving Pillars & Floating Eyeballs](https://medium.com/@dorukoguz/roving-pillars-floating-eyeballs-afae2b3fc9c)
   #### Zenon Network `@zenon.network`
   - [Towards NoM Phase 1 — Global Scale, Global Adoption!](https://medium.com/@zenon.network/towards-nom-phase-1-global-scale-global-adoption-9046ec78218d)
   - [The New NFT Standard: when cryptography meets steganography](https://medium.com/@zenon.network/the-new-nft-standard-when-cryptography-meets-steganography-9e356007dcaa)
