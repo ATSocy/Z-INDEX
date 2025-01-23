@@ -12,15 +12,17 @@ Built by aliens.
 - [Zenon Network](https://github.com/zenon-network)
   #### SDKs
   - [Dart](https://github.com/zenon-network/znn_sdk_dart)
-  - [Go](https://github.com/MoonBaZZe/znn-sdk-go)
-  - [Go](https://github.com/ignition-pillar/go-zdk)
+  - [Go by MoonBaZZe](https://github.com/MoonBaZZe/znn-sdk-go)
+  - [Go George](https://github.com/ignition-pillar/go-zdk)
   - [JavaScript](https://github.com/alien-valley/znn.js)
   - [TypeScript](https://github.com/DexterLabZ/znn.ts)
   - [Python](https://github.com/millerships/pyznn)
   - [C#](https://github.com/hypercore-one/znn_sdk_csharp)
+  - [c++](https://github.com/dumeriz/zenon-sdk-cpp) *
   - [PHP](https://github.com/digitalSloth/znn-php)
   - [Java](https://github.com/KingGorrin/znn_sdk_jav)
   - [Kotlin](https://github.com/ItsChaceD/zenon-android)
+  - [Common Lisp](https://github.com/dumeriz/cl-zenon) *
   #### Wallets
   - [✦ s y r i u s](https://github.com/zenon-network/syrius/)
   - [Zenon Wallet API for .NET](https://github.com/hypercore-one/znn_walletapi_csharp)
@@ -44,6 +46,12 @@ Built by aliens.
   - [Zenon Snapshot](https://github.com/znnrigel/zenon_snapshot)
   - [Zenon Raffle](https://github.com/znnrigel/zenon_raffle)
   - [PlasmaPoints Bot](https://github.com/znnrigel/plasmapointsbot)
+  - [Zenon AZ Service](https://github.com/dumeriz/zenon-az-service) *
+  - [Common Lisp NoM](https://github.com/dumeriz/cl-nom) *
+  - [Zenon AZ Bot in Common Lisp](https://github.com/dumeriz/zenon-az-bot) *
+  - [Zenon AZ Telegram Bot in Python](https://github.com/dumeriz/zaz-telegram-py) *
+  - [Zenon Reverse Proxy c++](https://github.com/dumeriz/zenon-repro) *
+  
   #### Resources
   - [ZNN Legacy Logo](https://github.com/stark-of-zenon/stark-of-zenon.github.io/blob/main/logo_legacy.png) *
   #### Research & Development
@@ -62,6 +70,10 @@ Built by aliens.
   - [Ignition Pillar](https://github.com/ignition-pillar)
   - [Alien Valley](https://github.com/alien-valley)
   - [Alien Trap Society](https://github.com/atsocy)
+ 
+  #### Legacy Zenon
+  - [Block Parser](https://github.com/dumeriz/block-parser) *
+  
 
 \* Item's marked have not been added to crypto-ecosystem's [taxonomy](https://github.com/electric-capital/crypto-ecosystems)
   
